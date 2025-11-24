@@ -1,3 +1,17 @@
 央视频道,#genre#
+CCTV1,http://118.248.170.37:8088/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://118.248.170.37:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://118.248.170.37:8088/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://118.248.170.37:8088/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://118.248.170.37:8088/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://118.248.170.37:8088/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://118.248.170.37:8088/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+北京卫视,http://118.248.170.37:8088/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://118.248.170.37:8088/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://118.248.170.37:8088/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://118.248.170.37:8088/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://118.248.170.37:8088/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://118.248.170.37:8088/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+湖南娱乐,http://118.248.170.37:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
